@@ -1,5 +1,5 @@
 ---
-title: "JTRs first post
+title: "JTRs first post"
 date: 2024-06-13
 ---
 
